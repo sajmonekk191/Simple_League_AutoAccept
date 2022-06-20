@@ -6,7 +6,7 @@ namespace League_of_Legends_AutoAccept
 {
     class Screen
     {
-        public static bool PixelSearchCD(Rectangle rect, Color PixelColor)
+        public static Point PixelSearch(Rectangle rect, Color PixelColor)
         {
             int searchvalue = PixelColor.ToArgb();
             unsafe
@@ -20,12 +20,14 @@ namespace League_of_Legends_AutoAccept
                     {
                         if (searchvalue == bitmap.GetI(i))
                         {
-                            return true;
+                            int x = i % bitmap.Width;
+                            int y = i / bitmap.Width;
+                            return new Point(x + rect.X, y + rect.Y);
                         }
                     }
                 }
             }
-            return false;
+            return new Point(0, 0);
         }
     }
 }

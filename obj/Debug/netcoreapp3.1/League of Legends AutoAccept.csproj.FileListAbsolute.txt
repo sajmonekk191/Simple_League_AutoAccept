@@ -20,3 +20,35 @@ C:\Users\simon.novak\source\repos\League of Legends AutoAccept\League of Legends
 C:\Users\simon.novak\source\repos\League of Legends AutoAccept\League of Legends AutoAccept\obj\Debug\netcoreapp3.1\League of Legends AutoAccept.dll
 C:\Users\simon.novak\source\repos\League of Legends AutoAccept\League of Legends AutoAccept\obj\Debug\netcoreapp3.1\League of Legends AutoAccept.pdb
 C:\Users\simon.novak\source\repos\League of Legends AutoAccept\League of Legends AutoAccept\obj\Debug\netcoreapp3.1\League of Legends AutoAccept.genruntimeconfig.cache
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\obj\Debug\netcoreapp3.1\League of Legends AutoAccept.csproj.AssemblyReference.cache
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\obj\Debug\netcoreapp3.1\League of Legends AutoAccept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\obj\Debug\netcoreapp3.1\League of Legends AutoAccept.AssemblyInfoInputs.cache
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\obj\Debug\netcoreapp3.1\League of Legends AutoAccept.AssemblyInfo.cs
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\obj\Debug\netcoreapp3.1\League of Legends AutoAccept.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\obj\Debug\netcoreapp3.1\League of Legends AutoAccept.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\obj\Debug\netcoreapp3.1\League of Legends AutoAccept.pdb
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\League of Legends AutoAccept.exe
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\League of Legends AutoAccept.deps.json
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\League of Legends AutoAccept.runtimeconfig.json
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\League of Legends AutoAccept.runtimeconfig.dev.json
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\League of Legends AutoAccept.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\League of Legends AutoAccept.pdb
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\FastBitmap.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\obj\Debug\netcoreapp3.1\League of Legends AutoAccept.csproj.CopyComplete
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\obj\Debug\netcoreapp3.1\League of Legends AutoAccept.genruntimeconfig.cache
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Root\Desktop\Simple_League_AutoAccept-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

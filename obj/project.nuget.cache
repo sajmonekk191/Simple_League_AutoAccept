@@ -1,13 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "ZeJzKd8I+HksbSr+U2THhbgJn2dyZIgD6ZrvSzVQdepet8ilC+Aji3YgZ5tM1hN5oa11E3CCLf94hCIfKVMyGg==",
+  "dgSpecHash": "o4yBw9YoPfqkqI1Jq7CfI4quPS6E+ujqpJwfJO8a9oeSCHNwLKqptSaVE99JZqSbr+0RN7qT/Nc9+5alU2Qr0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\simon.novak\\source\\repos\\League of Legends AutoAccept\\League of Legends AutoAccept\\League of Legends AutoAccept.csproj",
+  "projectFilePath": "C:\\Users\\Root\\Desktop\\Simple_League_AutoAccept-main\\League of Legends AutoAccept.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\simon.novak\\.nuget\\packages\\hazdryx.fastbitmap\\1.3.2\\hazdryx.fastbitmap.1.3.2.nupkg.sha512",
-    "C:\\Users\\simon.novak\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
-    "C:\\Users\\simon.novak\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
-    "C:\\Users\\simon.novak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+    "C:\\Users\\Root\\.nuget\\packages\\hazdryx.fastbitmap\\1.3.2\\hazdryx.fastbitmap.1.3.2.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
