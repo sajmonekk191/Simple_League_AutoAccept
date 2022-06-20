@@ -15,19 +15,6 @@ namespace League_of_Legends_AutoAccept
             timer.Enabled = true;
             Thread animate = new Thread(AnimatedName);
             animate.Start();
-            Console.WriteLine();
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine(@"        #                           #                                      
-       # #   #    # #####  ####    # #    ####   ####  ###### #####  ##### 
-      #   #  #    #   #   #    #  #   #  #    # #    # #      #    #   #   
-     #     # #    #   #   #    # #     # #      #      #####  #    #   #   
-     ####### #    #   #   #    # ####### #      #      #      #####    #   
-     #     # #    #   #   #    # #     # #    # #    # #      #        #   
-     #     #  ####    #    ####  #     #  ####   ####  ###### #        #   
-                                                                       ");
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("   Disabled AutoAccept  <-");
-            Console.WriteLine("   Exit");
         }
         static void AnimatedName()
         {
