@@ -112,8 +112,12 @@ namespace League_of_Legends_AutoAccept
             }
             else if (keyEnterIsPressed || keySpaceIsPressed)
             {
-                if (!select) Activated = true;
-                else Environment.Exit(0);
+                if (!select)
+                {
+                    if(!Activated) Activated = true;
+                    else Activated = false;
+                }
+                else if (select) Environment.Exit(0);
             }
         }
 
