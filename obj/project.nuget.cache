@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZeJzKd8I+HksbSr+U2THhbgJn2dyZIgD6ZrvSzVQdepet8ilC+Aji3YgZ5tM1hN5oa11E3CCLf94hCIfKVMyGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simon.novak\\source\\repos\\League of Legends AutoAccept\\League of Legends AutoAccept\\League of Legends AutoAccept.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simon.novak\\.nuget\\packages\\hazdryx.fastbitmap\\1.3.2\\hazdryx.fastbitmap.1.3.2.nupkg.sha512",
+    "C:\\Users\\simon.novak\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\simon.novak\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\simon.novak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
