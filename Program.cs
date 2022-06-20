@@ -26,7 +26,7 @@ namespace League_of_Legends_AutoAccept
      #     #  ####    #    ####  #     #  ####   ####  ###### #        #   
                                                                        ");
             Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("   Enable AutoAccept  <-");
+            Console.WriteLine("   Disabled AutoAccept  <-");
             Console.WriteLine("   Exit");
         }
         static void AnimatedName()
@@ -78,7 +78,7 @@ namespace League_of_Legends_AutoAccept
                 if(activated)
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
-                    Console.WriteLine("   Disabled AutoAccept");
+                    Console.WriteLine("   Enabled AutoAccept");
                 }
                 else Console.WriteLine("   Disabled AutoAccept");
                 Console.ForegroundColor = ConsoleColor.White;
@@ -105,7 +105,7 @@ namespace League_of_Legends_AutoAccept
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine("   Enabled AutoAccept  <-");
                 }
-                else Console.WriteLine("   Enabled AutoAccept  <-");
+                else Console.WriteLine("   Disabled AutoAccept  <-");
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("   Exit");
                 select = false;
