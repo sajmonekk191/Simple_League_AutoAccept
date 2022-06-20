@@ -117,7 +117,7 @@ namespace League_of_Legends_AutoAccept
                     if(!Activated) Activated = true;
                     else Activated = false;
                 }
-                else if (select) Environment.Exit(0);
+                else Environment.Exit(0);
             }
         }
 
