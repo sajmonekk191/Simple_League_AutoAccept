@@ -13,10 +13,6 @@ namespace League_of_Legends_AutoAccept.Essentials
         public static int MOUSEEVENTF_LEFTUP = 0x04;
         [DllImport("user32.dll")]
         public static extern short GetAsyncKeyState(Keys vKey);
-
-        [DllImport("user32.dll")]
-        private static extern IntPtr GetForegroundWindow();
-
         [DllImport("user32.dll")]
         public static extern IntPtr FindWindow(string IpClassName, string IpWindowName);
 
